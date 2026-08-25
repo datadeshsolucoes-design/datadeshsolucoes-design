@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](https://raw.githubusercontent.com/datadeshsolucoes-design/datadeshsolucoes-design/main/banner.png)
 
 # 🚀 DataDesh Soluções Digitais
 
