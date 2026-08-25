@@ -40,20 +40,20 @@ Aplicamos técnicas de **tratamento, análise e visualização de dados** para t
 
 ### 📊 Dados & Análise
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 💻 Desenvolvimento Web
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -61,14 +61,14 @@ Aplicamos técnicas de **tratamento, análise e visualização de dados** para t
 
 A DataDesh desenvolve projetos e protótipos em diferentes áreas da tecnologia:
 
-* 📊 Business Intelligence e Dashboards
-* 🤖 Automação de processos
-* 💬 Soluções para WhatsApp
-* 🧠 Inteligência Artificial
-* 📈 Ciência de Dados
-* 💻 Desenvolvimento Web
-* 💰 Ferramentas de controle financeiro
-* 📅 Sistemas de agenda e organização
+- 📊 Business Intelligence e Dashboards
+- 🤖 Automação de processos
+- 💬 Soluções para WhatsApp
+- 🧠 Inteligência Artificial
+- 📈 Ciência de Dados
+- 💻 Desenvolvimento Web
+- 💰 Ferramentas de controle financeiro
+- 📅 Sistemas de agenda e organização
 
 Explore nossos repositórios para conhecer algumas das soluções desenvolvidas.
 
@@ -89,11 +89,19 @@ Nosso objetivo é **entender o problema, organizar as informações e desenvolve
 <p align="center">
 
 <a href="https://servicosdigitais.datadeshsolucoes.workers.dev/">
-<img src="https://img.shields.io/badge/🌐%20SITE%20OFICIAL-DataDesh-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20SITE%20OFICIAL-CONHEÇA%20A%20DATADESH-6A5ACD?style=for-the-badge"/>
 </a>
 
-<a href="https://www.instagram.com/datadeshsolucoes">
-<img src="https://img.shields.io/badge/📸%20INSTAGRAM-@datadeshsolucoes-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://portifolio.datadeshsolucoes.workers.dev/">
+<img src="https://img.shields.io/badge/📊%20PORTFÓLIO-VER%20PROJETOS-4CAF50?style=for-the-badge"/>
+</a>
+
+<a href="https://curriculo.datadeshsolucoes.workers.dev/">
+<img src="https://img.shields.io/badge/📄%20CURRÍCULO-CONHEÇA%20MINHA%20TRAJETÓRIA-FF9800?style=for-the-badge"/>
+</a>
+
+<a href="https://www.instagram.com/datadeshsolucoesdigitais/">
+<img src="https://img.shields.io/badge/📸%20INSTAGRAM-SEGUIR%20DATADESH-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -102,11 +110,11 @@ Nosso objetivo é **entender o problema, organizar as informações e desenvolve
 
 ## 📬 Entre em contato
 
-📧 **[datadeshsolucoes@gmail.com](mailto:datadeshsolucoes@gmail.com)**
+📧 **datadeshsolucoes@gmail.com**
 
-📸 **Instagram:** [@datadeshsolucoes](https://www.instagram.com/datadeshsolucoes)
+📸 **Instagram:** [@datadeshsolucoesdigitais](https://www.instagram.com/datadeshsolucoesdigitais/)
 
-🌐 **Site oficial:** [servicosdigitais.datadeshsolucoes.workers.dev](https://servicosdigitais.datadeshsolucoes.workers.dev/)
+🌐 **Site oficial:** [DataDesh Soluções Digitais](https://servicosdigitais.datadeshsolucoes.workers.dev/)
 
 ---
 
